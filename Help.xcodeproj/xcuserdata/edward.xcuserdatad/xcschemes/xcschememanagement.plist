@@ -9,6 +9,16 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>HelpMerchant.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>HelpWorker.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -23,6 +33,36 @@
 			<true/>
 		</dict>
 		<key>2BDB93111D0C805100EBF015</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2BDB93271D0C80CB00EBF015</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2BDB933A1D0C80CB00EBF015</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2BDB93451D0C80CB00EBF015</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2BDB93591D0C80DC00EBF015</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2BDB936C1D0C80DC00EBF015</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2BDB93771D0C80DC00EBF015</key>
 		<dict>
 			<key>primary</key>
 			<true/>
